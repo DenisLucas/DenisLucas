@@ -32,6 +32,6 @@
 <h2>trabalhando recentemente:</h2>
 <div>
     <ul>
-        <li>Elev Tecnologia: Web Developer</li>
+        <li>Estagio na Elev Tecnologia: Web Developer</li>
     </ul>
 </div>
