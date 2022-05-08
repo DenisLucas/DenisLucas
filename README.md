@@ -7,8 +7,8 @@
 <h2>O Que ja fiz:</h2>
 <ul>
     <li>api's em c#:
-    <a href="https://github.com/DenisLucas/YoutubeApi/tree/workingOn" target="_blank"> video search api</a>,
-    <a href="https://github.com/DenisLucas/VideoGameSalesApi/tree/workFinished" target="_blank"> Video game sales api</a>
+    <a href="https://github.com/DenisLucas/YoutubeApi/tree/workingOn"> video search api</a>,
+    <a href="https://github.com/DenisLucas/VideoGameSalesApi/tree/workFinished"> Video game sales api</a>
     <li>alguns blogs pessoais</li>
     <li>Alguns jogos postados em: <a href="https://heartbit.itch.io/">Itch.io</a></li>
 </ul>
