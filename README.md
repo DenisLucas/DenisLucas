@@ -1,4 +1,3 @@
-
 <h1>Ola eu sou Denis Lucas e desejo um bom dia, boa tarde e boa noite a todos.</h1>
 <h2>Sobre mim:</h2>
 <p>
@@ -7,7 +6,9 @@
 <hr>
 <h2>O Que ja fiz:</h2>
 <ul>
-    <li>api's em c#</li>
+    <li>api's em c#
+    <a href="https://github.com/DenisLucas/YoutubeApi/tree/workingOn"> video search api</a>
+    <a href="https://github.com/DenisLucas/VideoGameSalesApi/tree/workFinished"> Video game sales api</a>
     <li>alguns blogs pessoais</li>
     <li>Alguns jogos postados em: <a href="https://heartbit.itch.io/">Itch.io</a></li>
 </ul>
